@@ -6,7 +6,8 @@ namespace TestGitFunctionality
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, alpha!");
+            Console.WriteLine("Hello, master!");
+            Console.WriteLine("Hello, master!");
         }
     }
 }
